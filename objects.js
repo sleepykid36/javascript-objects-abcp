@@ -1,1 +1,3 @@
-var playlist = { breakfast: "oatmeal"};
+var playlist = { key: "value"};
+
+function updatePlaylist
